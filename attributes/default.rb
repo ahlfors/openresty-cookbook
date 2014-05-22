@@ -17,6 +17,3 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
-default['openresty']['package']['distribution'] = '/'
-default['openresty']['package']['repo_url'] = 'http://dl.bintray.com/octohost/openresty'
